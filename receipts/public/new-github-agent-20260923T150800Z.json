@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:16:18.353813+00:00",
+  "agent": "BondBasil",
+  "slug": "bondbasil",
+  "did": "did:key:z6MkmFMLoVYiH82iStsn3TsNiLYSfvUAF8GcAFuk4jKe15SC",
+  "relay_profile": "account-063",
+  "github_repo": "https://github.com/waftarugula5e/flop-bondbasil",
+  "github_login": "waftarugula5e",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-69",
+    "key": "fdf629aea8c047",
+    "status": 200,
+    "value_sha256": "0e782f7898dec62e4fbdec73b8f4f4755ee7b576e724ae134a0150621f6629c9"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/bondbasil/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
